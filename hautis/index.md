@@ -28,6 +28,9 @@ Todo:
     - [_] <++>
     - [_] HUOM: Kesän viimeisenä hommana: sisäikkunoiden tiivistys ja
       teippaus!
+- [_] Terassi:
+    - [_] Siivous
+    - [_] ... 
 - [_] Ramin työhuone:
     - [_] [Rami] pintalaastin rappaus
     - [_] <++>
