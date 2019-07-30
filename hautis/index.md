@@ -1,9 +1,21 @@
 Todo:
 
-- [_] eka
-- [_] toka
+- [_] Saunarakennus
+    - [_] päätykolmion 4 laudan purku
+    - [_] ikkunan irrotus
+    - [_] keskihuoneen järjestely
+    - [_] <++>
+    - [_] <++>
+    - [_] <++>
+    - [_] <++>
+    - [_] <++>
+- [_] <++>
+- [_] <++>
+- [_] <++>
+- [_] <++>
+- [_] <++>
 
 Done:
 
-- [x] eka
-- [x] toka
+- [x] Tarvikkeidenhakureissu
+- [x] Auton purku
