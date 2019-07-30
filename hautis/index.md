@@ -34,5 +34,5 @@ Todo:
 
 Done:
 
-- [x] Tarvikkeidenhakureissu
-- [x] Auton purku
+- [x] Tarvikkeidenhakureissu 29.07.2019
+- [x] Auton purku 29.07.2019
