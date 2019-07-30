@@ -20,6 +20,9 @@ Todo:
         - [_] <++>
     - [_] Saunan katolla:
         - [_] tikaspätkän sahaus
+- [_] ASUINRAKENNUS:
+    - [_] Yläkerran osastoinnin siivous
+    - [_] Yläkerran osastoinnin purkaminen (HUOM: ensin siivous!)
 - [_] AITTA:
     - [_] kirjahyllyjen sahaus ja asentaminen
     - [_] vaateripustustankojen asentaminen
@@ -28,10 +31,10 @@ Todo:
     - [_] <++>
     - [_] HUOM: Kesän viimeisenä hommana: sisäikkunoiden tiivistys ja
       teippaus!
-- [_] Terassi:
+- [_] TERASSI:
     - [_] Siivous
-    - [_] ... 
-- [_] Ramin työhuone:
+    - [_] <++>
+- [_] RAMIN TYÖHUONE:
     - [_] [Rami] pintalaastin rappaus
     - [_] <++>
 
