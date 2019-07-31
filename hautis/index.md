@@ -7,16 +7,15 @@ Todo:
         - [x] pikkutavaroiden lajittelu
         - [_] osastoinnin rakentaminen
         - [_] <++>
+    - [_] Saunan katolla:
+        - [_] tikaspätkän sahaus
     - [?] Sauna:
         - [?] irtotavaran siirto ulos
         - [_] [Rami] yleistsekkaus ja purkamisen suunnittelu
-    - [_] Saunan katolla:
-        - [_] tikaspätkän sahaus
-    - [_] Päätykolmio:
-        - [_] päätykolmion 4 laudan purku
-        - [_] saunan ikkunan irrotus
-        - [_] muovin niittaaminen otsalautaan (sääsuojaksi päätykolmiolle)
-        - [_] <++>
+    - [?] [Rami] Päätykolmio:
+        - [_] [Rami] päätykolmion 4 laudan purku
+        - [_] [Rami] saunan ikkunan irrotus
+        - [_] [Rami] muovin niittaaminen otsalautaan (sääsuojaksi päätykolmiolle)
 - [_] AITTA:
     - [_] kirjahyllyjen sahaus ja asentaminen
     - [_] vaateripustustankojen asentaminen
@@ -25,8 +24,14 @@ Todo:
     - [_] <++>
     - [_] HUOM: Kesän viimeisenä hommana: sisäikkunoiden tiivistys ja teippaus!
 - [_] TERASSI:
-    - [_] Siivous
-    - [_] <++>
+    - [_] Siivous
+    - [_] <++>
+- [_] PIHA:
+    - [x] Haravointi
+    - [_] **Uusi** Veneen tyhjennys ja siirto portin lähelle
+    - [_] **Uusi** Oksien kerääminen alapihalle aidan viereen
+    - [_] **Uusi** Ison portin lautojen naulaus
+    - [_] <++>
 - [_] RAMIN TYÖHUONE:
     - [2/5] [Rami] pintalaastin rappaus
     - [_] <++>
