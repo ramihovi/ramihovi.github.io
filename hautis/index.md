@@ -13,11 +13,11 @@ Todo:
         - [?] irtotavaran siirto ulos
         - [_] [Rami] yleistsekkaus ja purkamisen suunnittelu
     - [?] [Rami] Päätykolmio:
-        - [_] [Rami] päätykolmion 4 laudan purku
+        - [x] [Rami] päätykolmion 4 laudan purku
         - [_] [Rami] saunan ikkunan irrotus
-        - [_] [Rami] muovin niittaaminen otsalautaan (sääsuojaksi päätykolmiolle)
+        - [x] [Rami] muovin niittaaminen otsalautaan (sääsuojaksi päätykolmiolle)
 - [_] AITTA:
-    - [_] kirjahyllyjen sahaus ja asentaminen
+    - [x] kirjahyllyjen sahaus ja asentaminen
     - [_] vaateripustustankojen asentaminen
     - [_] kirjojen ym. järjestäminen hyllyyn
     - [_] yleinen järjestely
@@ -29,8 +29,8 @@ Todo:
 - [_] PIHA:
     - [x] Haravointi
     - [_] **Uusi**: Veneen tyhjennys ja siirto portin lähelle
-    - [_] **Uusi**: Oksien kerääminen alapihalle aidan viereen
-    - [_] **Uusi**: Ison portin lautojen naulaus
+    - [x] **Uusi**: Oksien kerääminen alapihalle aidan viereen
+    - [x] **Uusi**: Ison portin lautojen naulaus
     - [_] <++>
 - [_] RAMIN TYÖHUONE:
     - [2/5] [Rami] pintalaastin rappaus
