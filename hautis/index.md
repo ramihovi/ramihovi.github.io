@@ -28,9 +28,9 @@ Todo:
     - [_] <++>
 - [_] PIHA:
     - [x] Haravointi
-    - [_] **Uusi** Veneen tyhjennys ja siirto portin lähelle
-    - [_] **Uusi** Oksien kerääminen alapihalle aidan viereen
-    - [_] **Uusi** Ison portin lautojen naulaus
+    - [_] **Uusi**: Veneen tyhjennys ja siirto portin lähelle
+    - [_] **Uusi**: Oksien kerääminen alapihalle aidan viereen
+    - [_] **Uusi**: Ison portin lautojen naulaus
     - [_] <++>
 - [_] RAMIN TYÖHUONE:
     - [2/5] [Rami] pintalaastin rappaus
