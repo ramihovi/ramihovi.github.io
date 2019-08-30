@@ -1,40 +1,34 @@
 Todo:
 
-- [_] SAUNARAKENNUS:
-    - [_] Keskihuone:
+- [x] SAUNARAKENNUS:
+    - [x] Keskihuone:
         - [x] saunapuolen raivaus
         - [x] puutavaran siirto ullakolle
         - [x] pikkutavaroiden lajittelu
-        - [_] osastoinnin rakentaminen
-        - [_] <++>
-    - [_] Saunan katolla:
-        - [_] tikaspätkän sahaus
-    - [?] Sauna:
-        - [?] irtotavaran siirto ulos
-        - [_] [Rami] yleistsekkaus ja purkamisen suunnittelu
-    - [?] [Rami] Päätykolmio:
-        - [x] [Rami] päätykolmion 4 laudan purku
-        - [_] [Rami] saunan ikkunan irrotus
-        - [x] [Rami] muovin niittaaminen otsalautaan (sääsuojaksi päätykolmiolle)
+        - [x] osastoinnin rakentaminen
+    - [x] Saunan katolla:
+        - [x] tikaspätkän sahaus
+    - [x] Sauna:
+        - [x] [Rami] yleistsekkaus ja purkamisen suunnittelu
+    - [x] Päätykolmio:
+        - [x] päätykolmion 4 laudan purku
+        - [x] saunan ikkunan irrotus
+        - [x] muovin niittaaminen otsalautaan (sääsuojaksi päätykolmiolle)
 - [_] AITTA:
     - [x] kirjahyllyjen sahaus ja asentaminen
-    - [_] vaateripustustankojen asentaminen
-    - [_] kirjojen ym. järjestäminen hyllyyn
-    - [_] yleinen järjestely
-    - [_] <++>
+    - [x] vaateripustustankojen asentaminen
+    - [x] kirjojen ym. järjestäminen hyllyyn
+    - [x] yleinen järjestely
     - [_] HUOM: Kesän viimeisenä hommana: sisäikkunoiden tiivistys ja teippaus!
-- [_] TERASSI:
-    - [_] Siivous
-    - [_] <++>
-- [_] PIHA:
+- [x] TERASSI:
+    - [x] Siivous
+- [x] PIHA:
     - [x] Haravointi
-    - [_] **Uusi**: Veneen tyhjennys ja siirto portin lähelle
-    - [x] **Uusi**: Oksien kerääminen alapihalle aidan viereen
-    - [x] **Uusi**: Ison portin lautojen naulaus
-    - [_] <++>
+    - [x] Veneen tyhjennys ja siirto portin lähelle
+    - [x] Oksien kerääminen alapihalle aidan viereen
+    - [x] Ison portin lautojen naulaus
 - [_] RAMIN TYÖHUONE:
     - [2/5] [Rami] pintalaastin rappaus
-    - [_] <++>
 
 Done:
 
