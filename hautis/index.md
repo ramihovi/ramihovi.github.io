@@ -6,6 +6,8 @@ date: 2020-01-05 11:16
 
 # Todo 2020:
 
+- [_] Saunahuussihuoneen tyhjennys, siivous ja tuuletuskanavan avaus
+
 - [_] Ramin työhuone
     - [_] horminurkka
         - [_] pohjaläpän muotoilu
