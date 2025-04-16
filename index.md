@@ -18,7 +18,7 @@ amet.
 Kokeillaan latex math -tekstiä: ${A \to B, A} \models  B$ -- eikö edelleenkään näytä toimivan?
 ...
 
-More math testing
+More math testing 1
 
 ```math
 {A \to B, A} \models  B
