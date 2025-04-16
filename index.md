@@ -17,13 +17,11 @@ saepe amet.
 
 ## Testing $$\LaTeX$$ math
 
-Testing latex math inline syntax: $$\{ A \to B, A \} \models  B$$ -- curly
-brackets seem to disappear in github's jekyll process.
-
+Testing latex math inline with \$\$ syntax: $$\{ A \to B, A \} \models  B$$.
 
 $$\{A \to B, A\} \models  B$$
 
-\[\{ x \in X : x > 0 \}\]
+$$\{ x \in X : x > 0 \}$$
 
 more testing:
 
