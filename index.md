@@ -15,7 +15,7 @@ amet.
 
 ## Subsection H2
 
-Testing latex math inline syntax: $\{A \to B, A\} \models  B$.
+Testing latex math inline syntax: $\left\{A \to B, A\right\} \models  B$.
 ...
 
 \$\$ syntax:
