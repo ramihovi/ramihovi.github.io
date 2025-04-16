@@ -1,10 +1,12 @@
 ---
-title: Rami Hovi, personal page
+title: Rami Hovi's personal site
 author: Rami Hovi
 date: 2020-01-05 20:55
 ---
 
 # Section H1
+
+Testing ...
 
 ## Subsection H2
 
@@ -23,8 +25,10 @@ $$\{A \to B, A\} \models  B$$
 
 $$\{ x \in X : x > 0 \}$$
 
-testing ````math syntax`:
+more testing:
 
 $$
 \sqrt{3x-1}+(1+x)^2
 $$
+
+Not working.
