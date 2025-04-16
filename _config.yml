@@ -2,8 +2,8 @@ theme: jekyll-theme-slate
 show_downloads: false
 github:
     is_project_page: false
-markdown: pandoc
-pandoc:
+markdown: kramdown
+kramdown:
     math_engine: mathjax
     syntax_highlighter: rouge
 title: Rami Hovi, personal page
