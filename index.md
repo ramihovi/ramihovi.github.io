@@ -1,5 +1,5 @@
 ---
-title: Mietelmiä, projekteja yms.
+title: Rami Hovi, personal page
 author: Rami Hovi
 date: 2020-01-05 20:55
 ---
