@@ -22,6 +22,8 @@ Testing latex math inline syntax: $\left\{ A \to B, A \right\} \models  B$.
 
 $${A \to B, A} \models  B$$
 
+$$\\{A \to B, A\\} \models  B$$
+
 $$\{ x \in X : x > 0 \}$$
 
 testing ````math syntax`:
