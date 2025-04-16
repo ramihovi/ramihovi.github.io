@@ -13,10 +13,9 @@ perferendis asperiores. Et minima laudantium quia quia eum voluptate
 temporibus. **Nostrum iusto** sed illum qui eos et ipsa. Autem voluptatum saepe
 amet.
 
-## Subsection H2
+## Testing $\LaTeX$ math
 
 Testing latex math inline syntax: $\{ A \to B, A \} \models  B$.
-...
 
 \$\$ syntax:
 
