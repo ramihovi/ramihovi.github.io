@@ -9,13 +9,26 @@ tags: [ hautzi, remontti, hormihuone ]
 
 - [x] puukuitulevytys
 - [x] lattian suopakuuraus
-- [ ] ...
+- [x] ...
 - [x] kynnys
-- [ ] kattolistat
-- [ ] jalkalistat
-- [ ] hormin kattolistat
-- [ ] hormin jalkalistat
+- [x] kattolistat
+- [ ] kynnyksen etureunan viimeistely
 - [ ] ikkunasmyygien viimeistely
 - [ ] vuorilaudat ikkunanpieliin
+  - [ ] materiaalin raakasahaus
+  - [ ] maalaus
+  - [ ] asentaminen
+- [ ] jalkalistat
+- [ ] hormin kattolistat
+  - [ ] materiaalin raakasahaus
+  - [ ] maalaus
+  - [ ] asentaminen
+- [ ] hormin jalkalistat
+  - [ ] materiaalin raakasahaus
+  - [ ] maalaus
+  - [ ] asentaminen
 - [ ] vuorilaudat ovenpieliin
+  - [ ] materiaalin raakasahaus
+  - [ ] maalaus
+  - [ ] asentaminen
 
