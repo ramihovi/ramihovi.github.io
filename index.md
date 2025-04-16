@@ -20,9 +20,7 @@ Kokeillaan latex math -tekstiä: ${A \to B, A} \models  B$ -- eikö edelleenkä�
 
 More math testing 1
 
-```math
-{A \to B, A} \models  B
-```
+$${A \to B, A} \models  B$$
 
 more 3
 
