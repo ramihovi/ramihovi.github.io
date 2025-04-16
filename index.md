@@ -23,3 +23,9 @@ More math testing 1
 ```math
 {A \to B, A} \models  B
 ```
+
+more 2
+
+```math
+\sqrt{3x-1}+(1+x)^2
+```
