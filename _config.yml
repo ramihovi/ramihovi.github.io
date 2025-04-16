@@ -6,5 +6,5 @@ markdown: kramdown
 kramdown:
     math_engine: mathjax
     syntax_highlighter: rouge
-title: Rami Hovi, personal page
+title: Rami Hovi's personal site
 description: thoughts and projects
