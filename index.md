@@ -21,12 +21,12 @@ Testing latex math inline syntax: \(\{ A \to B, A \} \models  B\) -- curly
 brackets seem to disappear in github's jekyll process.
 
 
-\[\{A \to B, A\} \models  B\]
+$$\{A \to B, A\} \models  B$$
 
 \[\{ x \in X : x > 0 \}\]
 
 more testing:
 
-\[
+$$
 \sqrt{3x-1}+(1+x)^2
-\]
+$$
