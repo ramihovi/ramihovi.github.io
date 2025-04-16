@@ -9,9 +9,7 @@ date: 2025-04-16 11:31
 - Sauna building:
   - Porch
   - Gable triangle cladding
-
 - [_] Ramin työhuone
-
   - [_] horminurkka
     - [_] pohjaläpän muotoilu
     - [_] pohjaläpän kiinnitys
@@ -29,7 +27,6 @@ date: 2025-04-16 11:31
   - [ ] kattolistat
   - [ ] lattialistat
   - [ ] ikkuna- ja ovilistat
-
 - [_] Hormihuone
   - [_] puukuitulevytys
   - [_] lattian öljyäminen
