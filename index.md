@@ -17,7 +17,8 @@ amet.
 
 ## Testing $\LaTeX$ math
 
-Testing latex math inline syntax: $\{ A \to B, A \} \models  B$.
+Testing latex math inline syntax: $\{ A \to B, A \} \models  B$ -- inline
+curly brackets seem to disappear in github's jekyll process.
 
 \$\$ syntax:
 
@@ -31,4 +32,4 @@ $$
 \sqrt{3x-1}+(1+x)^2
 $$
 
-Not working.
+
