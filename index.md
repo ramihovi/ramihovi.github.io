@@ -21,12 +21,10 @@ Testing latex math inline syntax: $\{ A \to B, A \} \models  B$.
 
 $$\{A \to B, A\} \models  B$$
 
-$$\\{A \to B, A\\} \models  B$$
-
 $$\{ x \in X : x > 0 \}$$
 
 testing ````math syntax`:
 
-```math
+$$
 \sqrt{3x-1}+(1+x)^2
-```
+$$
