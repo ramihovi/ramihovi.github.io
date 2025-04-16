@@ -15,7 +15,7 @@ amet.
 
 ## Testing $\LaTeX$ math
 
-Testing latex math inline syntax: $\[\{ A \to B, A \} \models  B\]$.
+Testing latex math inline syntax: $$\{ A \to B, A \} \models  B$$.
 
 \$\$ syntax:
 
