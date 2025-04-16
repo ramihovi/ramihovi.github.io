@@ -9,28 +9,38 @@ date: 2025-04-16 11:31
 - Sauna building:
   - Porch
   - Gable triangle cladding
-- [_] Ramin työhuone
-  - [_] horminurkka
-    - [_] pohjaläpän muotoilu
-    - [_] pohjaläpän kiinnitys
+- [ ] Ramin työhuone
+  - [ ] horminurkka
+    - [ ] pohjaläpän muotoilu
+    - [ ] pohjaläpän kiinnitys
     - [ ] pääliläpän saranamekanismi
     - [ ] pääliläpän sulkumekanismi
-  - [ ] työpöydän teko ja siirto työhuoneeseen
+  - [ ] uusi työpöytä
+    - [ ] liimaus
+    - [ ] sahaus
     - [ ] höyläys
     - [ ] jyrsintä
     - [ ] hiominen
     - [ ] Danish oil -käsittely
     - [ ] tietokone- ja johtokiinnitykset
-    - [ ] siirto työhuoneeseen
+    - [ ] asentaminen työhuoneeseen
   - [ ] sähkövedot
   - [ ] valaisimet
   - [ ] kattolistat
   - [ ] lattialistat
   - [ ] ikkuna- ja ovilistat
-- [_] Hormihuone
-  - [_] puukuitulevytys
-  - [_] lattian öljyäminen
-  - [_] <++>
+- [ ] Hormihuone
+  - [x] puukuitulevytys
+  - [x] lattian suopakuuraus
+  - [ ] ...
+  - [x] kynnys
+  - [ ] kattolistat
+  - [ ] jalkalistat
+  - [ ] hormin kattolistat
+  - [ ] hormin jalkalistat
+  - [ ] ikkunasmyygien viimeistely
+  - [ ] vuorilaudat ikkunanpieliin
+  - [ ] vuorilaudat ovenpieliin
 
 # Done:
 
