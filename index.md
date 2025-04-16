@@ -4,25 +4,25 @@ author: Rami Hovi
 date: 2020-01-05 20:55
 ---
 
-# Otsikko H1
+# Section H1
 
-## Alaotsikko H2
+## Subsection H2
 
 Consequatur quas ab est repudiandae *cum adipisci voluptatem*. Earum amet
 perferendis asperiores. Et minima laudantium quia quia eum voluptate
 temporibus. **Nostrum iusto** sed illum qui eos et ipsa. Autem voluptatum saepe
 amet.
 
-## Alaotsikko H2
+## Subsection H2
 
-Kokeillaan latex math -tekstiä: $\{A \to B, A\} \models  B$ -- eikö edelleenkään näytä toimivan?
+Testing latex math inline syntax: $\{A \to B, A\} \models  B$.
 ...
 
-More math testing 1
+\$\$ syntax:
 
 $${A \to B, A} \models  B$$
 
-more 3
+testing ````math syntax`:
 
 ```math
 \sqrt{3x-1}+(1+x)^2
