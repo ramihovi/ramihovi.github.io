@@ -10,15 +10,15 @@ Testing ...
 
 ## Subsection H2
 
-Consequatur quas ab est repudiandae *cum adipisci voluptatem*. Earum amet
+Consequatur quas ab est repudiandae _cum adipisci voluptatem_. Earum amet
 perferendis asperiores. Et minima laudantium quia quia eum voluptate
-temporibus. **Nostrum iusto** sed illum qui eos et ipsa. Autem voluptatum saepe
-amet.
+temporibus. **Nostrum iusto** sed illum qui eos et ipsa. Autem voluptatum
+saepe amet.
 
 ## Testing $\LaTeX$ math
 
-Testing latex math inline syntax: $\{ A \to B, A \} \models  B$ -- inline
-curly brackets seem to disappear in github's jekyll process.
+Testing latex math inline syntax: $\{ A \to B, A \} \models  B$ -- curly
+brackets seem to disappear in github's jekyll process.
 
 \$\$ syntax:
 
@@ -31,5 +31,3 @@ more testing:
 $$
 \sqrt{3x-1}+(1+x)^2
 $$
-
-
