@@ -15,7 +15,7 @@ amet.
 
 ## Alaotsikko H2
 
-Kokeillaan latex math -tekstiä: ${A \to B, A} \models  B$ -- eikö edelleenkään näytä toimivan?
+Kokeillaan latex math -tekstiä: $\{A \to B, A\} \models  B$ -- eikö edelleenkään näytä toimivan?
 ...
 
 More math testing 1
