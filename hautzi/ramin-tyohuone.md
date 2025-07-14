@@ -7,9 +7,14 @@ tags: [ hautzi, remontti, työhuone ]
 
 # Ramin työhuone
 
-- [ ] horminurkka
-  - [ ] pohjaläpän muotoilu
-  - [ ] pohjaläpän kiinnitys
+- [ ] kattolistat
+- [ ] lattialistat
+- [ ] ikkuna- ja ovilistat
+- [ ] sähkövedot
+- [ ] valaisimet
+- [o] horminurkka
+  - [x] pohjaläpän muotoilu
+  - [x] pohjaläpän kiinnitys
   - [ ] pääliläpän saranamekanismi
   - [ ] pääliläpän sulkumekanismi
 - [ ] uusi työpöytä
@@ -21,8 +26,3 @@ tags: [ hautzi, remontti, työhuone ]
   - [ ] Danish oil -käsittely
   - [ ] tietokone- ja johtokiinnitykset
   - [ ] asentaminen työhuoneeseen
-- [ ] sähkövedot
-- [ ] valaisimet
-- [ ] kattolistat
-- [ ] lattialistat
-- [ ] ikkuna- ja ovilistat
